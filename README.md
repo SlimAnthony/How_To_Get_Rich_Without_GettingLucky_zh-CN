@@ -13,4 +13,5 @@ Naval 不仅仅是一个成功的天使投资人，他还是一位思想深刻�
 市面上有太多打着各种名号的”鸡汤“”水货“，Naval 的分享则坦率实际，充满洞见。他的很多理念激励到了我，我也希望它能激励到更多有缘人，更多有 好奇心 和求知欲、 关注自我成长的人。如果对你有所帮助，请传播给更多人。
 
 文章皆为个人翻译作品，非商业目的使用授权遵循 CC BY-NC 4.0
+
 All content is made available under the CC BY-NC 4.0 for non-commercial use.
