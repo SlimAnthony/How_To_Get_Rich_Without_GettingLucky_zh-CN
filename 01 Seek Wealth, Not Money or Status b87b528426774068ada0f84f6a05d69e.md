@@ -1,20 +1,24 @@
 # 01.Seek Wealth, Not Money or Status
 
 Created time: Aug 30, 2019 10:04 AM
+
 Number: 1
+
 Tags: Creation, Freedom, Wealth
+
 Telegra.ph URL: https://telegra.ph/01Seek-Wealth-Not-Money-or-Status-05-01
-Translation Process: Done
+
 URL: https://nav.al/seek-wealth
 原载于: 2019/02/28
-音频文件: http://traffic.libsyn.com/naval/Naval-Ep1.mp3
+
+[音频文件](http://traffic.libsyn.com/naval/Naval-Ep1.mp3)
 
 # 追求财富，而不是金钱或地位
 
 Wealth is assets that earn while you sleep
 所谓财富，是你的那些能给你带来 “睡后收入” 的资产
 
-[https://hwcdn.libsyn.com/p/9/a/2/9a2ec60f4a200aff/Naval-Ep1.mp3?c_id=35520539&cs_id=35520539&expiration=1594235093&hwt=56f7f379afc53a64de52f1b3913c3949](https://hwcdn.libsyn.com/p/9/a/2/9a2ec60f4a200aff/Naval-Ep1.mp3?c_id=35520539&cs_id=35520539&expiration=1594235093&hwt=56f7f379afc53a64de52f1b3913c3949)
+[mp3](https://hwcdn.libsyn.com/p/9/a/2/9a2ec60f4a200aff/Naval-Ep1.mp3?c_id=35520539&cs_id=35520539&expiration=1594235093&hwt=56f7f379afc53a64de52f1b3913c3949)
 
 **Nivi**：你可能是从Naval的[推特账号](https://twitter.com/naval)知道他的。
 
