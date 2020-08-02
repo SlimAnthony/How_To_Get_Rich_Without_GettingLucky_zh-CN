@@ -10,7 +10,7 @@ URL: https://nav.al/ethical-wealth
 
 原载于: 2019/03/03
 
-[音频文件:] (https://hwcdn.libsyn.com/p/1/6/0/160753474104c1ac/Naval-Ep2.mp3?c_id=35793431&cs_id=35793431&expiration=1594439560&hwt=cd70b80e2c2d31f07b7abbf97b13c1dd)
+[音频文件:](https://hwcdn.libsyn.com/p/1/6/0/160753474104c1ac/Naval-Ep2.mp3?c_id=35793431&cs_id=35793431&expiration=1594439560&hwt=cd70b80e2c2d31f07b7abbf97b13c1dd)
 
 # 创造财富就是在为世界创造富足
 
