@@ -1,17 +1,18 @@
 # 01.Seek Wealth, Not Money or Status
 
 Created time: Aug 30, 2019 10:04 AM
+
 Number: 1
-Tags: Creation, Freedom, Wealth
-Telegra.ph URL: https://telegra.ph/01Seek-Wealth-Not-Money-or-Status-05-01
+
+Telegram URL: https://telegra.ph/01Seek-Wealth-Not-Money-or-Status-05-01
+
 URL: https://nav.al/seek-wealth
+
 原载于: 2019/02/28
 
 # 追求财富，而不是金钱或地位
 
-August 20, 2019
-
-[https://youtu.be/jemPACNo1_I](https://youtu.be/jemPACNo1_I)
+[YouTube](https://youtu.be/jemPACNo1_I)
 
 财富，金钱与地位之间的差异
 
