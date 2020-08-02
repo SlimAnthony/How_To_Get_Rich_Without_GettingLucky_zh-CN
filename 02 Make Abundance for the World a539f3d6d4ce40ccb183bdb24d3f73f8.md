@@ -2,18 +2,19 @@
 
 Created time: Aug 30, 2019 10:53 AM
 Number: 2
-Tags: Abundance , Ethical, Wealth
+Tags: Creation, Ethical, Wealth
 Telegra.ph URL: https://telegra.ph/02Make-Abundance-for-the-World-05-03
+Translation Process: Done
 URL: https://nav.al/ethical-wealth
 原载于: 2019/03/03
+音频文件: https://hwcdn.libsyn.com/p/1/6/0/160753474104c1ac/Naval-Ep2.mp3?c_id=35793431&cs_id=35793431&expiration=1594439560&hwt=cd70b80e2c2d31f07b7abbf97b13c1dd
 
 # 创造财富就是在为世界创造富足
 
-August 22, 2019
-
-[https://www.youtube.com/watch?v=Lo3IAGpUMm8&feature=youtu.be](https://www.youtube.com/watch?v=Lo3IAGpUMm8&feature=youtu.be)
-
+Wealth isn't about taking something from somebody else
 财富的获取不是去别人那里索取利益 - 而是为世界创造富足
+
+[https://hwcdn.libsyn.com/p/1/6/0/160753474104c1ac/Naval-Ep2.mp3?c_id=35793431&cs_id=35793431&expiration=1594236663&hwt=3b1b5813b8e1ccd98ff907ad43c7c756](https://hwcdn.libsyn.com/p/1/6/0/160753474104c1ac/Naval-Ep2.mp3?c_id=35793431&cs_id=35793431&expiration=1594236663&hwt=3b1b5813b8e1ccd98ff907ad43c7c756)
 
 ## **合乎道义的致富之路其实就在为世界创造富足**
 

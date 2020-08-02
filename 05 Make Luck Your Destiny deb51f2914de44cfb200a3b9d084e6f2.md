@@ -2,8 +2,9 @@
 
 Created time: Aug 30, 2019 11:39 AM
 Number: 5
-Tags: Luck, 运气
+Tags: Luck/运气
 Telegra.ph URL: https://telegra.ph/05Make-Luck-Your-Destiny-05-07
+Translation Process: Done
 URL: https://nav.al/luck-destiny#more-28492166
 原载于: 2019/03/07
 
@@ -19,7 +20,7 @@ URL: https://nav.al/luck-destiny#more-28492166
 
 第四种运气，我们说它来自于你不同于大众司空见惯的那些言行，“虽千万人吾往矣”，或是你能为社会创造独特价值的那些独门特技。
 
-[**08. Give Society What It Doesn’t Know How to Get**](08%20Give%20Society%20What%20It%20Doesn%20t%20Know%20How%20to%20Get%2008d210a68b6e44d7adf2174fd7d6cc5a.md) 
+[**08. Give Society What It Doesn’t Know How to Get**](08%20Give%20Society%20What%20It%20Doesn%E2%80%99t%20Know%20How%20to%20Get%2008d210a68b6e44d7adf2174fd7d6cc5a.md) 
 
 我觉得这很有意思。这种运气可能是一个平日里不露声色的普通人逆袭的机会，可这样的人反而不一定非得要仰仗它来获得成功。
 
@@ -29,7 +30,7 @@ URL: https://nav.al/luck-destiny#more-28492166
 
 ## **塑造你的个性，让机会找到你**
 
-我认为对赚钱很重要的事情之一，是建立起那种你想要让人们一定得通过你做交易的声誉。 [40. Being Ethical Is Long-Term Greedy](40%20Being%20Ethical%20Is%20Long%20Term%20Greedy%2099701897a4654bb4b90379b640df16e5.md) 
+我认为对赚钱很重要的事情之一，是建立起那种你想要让人们一定得通过你做交易的声誉。 [40. Being Ethical Is Long-Term Greedy](40%20Being%20Ethical%20Is%20Long-Term%20Greedy%2099701897a4654bb4b90379b640df16e5.md) 
 
 我举了一个类似的例子：假如你是一个伟大的潜水员，那么寻宝者会因为你的潜水技能，来付给你一大笔金银财宝。
 
@@ -58,7 +59,7 @@ URL: https://nav.al/luck-destiny#more-28492166
 
 **Navel**：是的。而我喜欢的一个异曲同工的格言是，“玩愚蠢的游戏，赢得愚蠢的奖品。”太多人花了太多时间在像Twitter那样的社交平台玩社交游戏，如果你在那试图提高你的社交地位，你基本上只会赢下那些毫无价值、愚蠢的社交奖励。
 
-[**32. Play Stupid Games, Win Stupid Prizes**](32%20Play%20Stupid%20Games%20Win%20Stupid%20Prizes%2065ab3fa00bd54d29b1114b26cb187253.md)
+[**32. Play Stupid Games, Win Stupid Prizes**](32%20Play%20Stupid%20Games,%20Win%20Stupid%20Prizes%2065ab3fa00bd54d29b1114b26cb187253.md)
 
 **Nivi：**我从[这篇博文](https://pmarchive.com/luck_and_the_entrepreneur.html)中得到的最后一个启示是：除了瞎碰运气那类之外，你应该去追求所有这些运气，特别是最后一种。因为你只要继续煽风点火，不断去尝试折腾，就将甩掉所有的坏运气，你会变得越来越幸运。
 

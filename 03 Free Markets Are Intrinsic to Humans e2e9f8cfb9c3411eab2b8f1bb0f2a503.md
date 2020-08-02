@@ -4,16 +4,17 @@ Created time: Aug 30, 2019 11:11 AM
 Number: 3
 Tags: Creation, Ethical, Wealth
 Telegra.ph URL: https://telegra.ph/03Free-Markets-Are-Intrinsic-to-Humans-05-05
+Translation Process: Done
 URL: https://nav.al/free-markets
 原载于: 2019/03/05
+音频文件: https://hwcdn.libsyn.com/p/e/9/e/e9e298759299d63d/Naval-Ep3.mp3?c_id=36090545&cs_id=36090545&expiration=1594238404&hwt=4107a66adc61fb23f366458e39e8bc31
 
 # 自由市场是人类天性
 
-August 23, 2019
+We use credits and debits to cooperate across genetic boundaries
+我们是唯一一种跨越基因边界进行合作的动物，因为我们可以在自愿交易中追踪借贷
 
-[https://youtu.be/v3wDGmY2lik](https://youtu.be/v3wDGmY2lik)
-
-我们是唯一一种跨越基因边界进行合作的动物，因为我们可以在自愿交易中追踪借贷。
+[https://hwcdn.libsyn.com/p/e/9/e/e9e298759299d63d/Naval-Ep3.mp3?c_id=36090545&cs_id=36090545&expiration=1594238404&hwt=4107a66adc61fb23f366458e39e8bc31](https://hwcdn.libsyn.com/p/e/9/e/e9e298759299d63d/Naval-Ep3.mp3?c_id=36090545&cs_id=36090545&expiration=1594238404&hwt=4107a66adc61fb23f366458e39e8bc31)
 
 ## **自由市场源于人类固有本性**
 
@@ -69,6 +70,8 @@ Naval**:** 总的来说，资本主义（即自由市场）源自人类固有�
 
 我认为，这种形式的财富创造，如果一个社会不尊重它，社会的领导群体不尊重它，那么这个社会必将沦为昏天暗地的人间地狱。
 
-相关/See Also ：
-[02.Make Abundance for the World](02%20Make%20Abundance%20for%20the%20World%20a539f3d6d4ce40ccb183bdb24d3f73f8.md) 
- [**18. There’s No Actual Skill Called “Business”** ](18%20There%20s%20No%20Actual%20Skill%20Called%20Business%20028351754fd6446aae650e8cf6ef94d8.md)
+相关/See Also
+
+[02.Make Abundance for the World](02%20Make%20Abundance%20for%20the%20World%20a539f3d6d4ce40ccb183bdb24d3f73f8.md)
+
+[**18. There’s No Actual Skill Called “Business”** ](18%20There%E2%80%99s%20No%20Actual%20Skill%20Called%20%E2%80%9CBusiness%E2%80%9D%20028351754fd6446aae650e8cf6ef94d8.md)
