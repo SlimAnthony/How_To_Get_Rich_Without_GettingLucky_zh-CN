@@ -4,11 +4,10 @@ Created time: Aug 30, 2019 10:04 AM
 
 Number: 1
 
-Tags: Creation, Freedom, Wealth
-
 Telegra.ph URL: https://telegra.ph/01Seek-Wealth-Not-Money-or-Status-05-01
 
 URL: https://nav.al/seek-wealth
+
 原载于: 2019/02/28
 
 [音频文件](http://traffic.libsyn.com/naval/Naval-Ep1.mp3)
@@ -17,8 +16,6 @@ URL: https://nav.al/seek-wealth
 
 Wealth is assets that earn while you sleep
 所谓财富，是你的那些能给你带来 “睡后收入” 的资产
-
-[mp3](https://hwcdn.libsyn.com/p/9/a/2/9a2ec60f4a200aff/Naval-Ep1.mp3?c_id=35520539&cs_id=35520539&expiration=1594235093&hwt=56f7f379afc53a64de52f1b3913c3949)
 
 **Nivi**：你可能是从Naval的[推特账号](https://twitter.com/naval)知道他的。
 
@@ -90,4 +87,4 @@ Naval是[AngelList](http://angel.co/)和Epinions 的联合创始人，也是一�
 
 [36. There Are No Get Rich Quick Schemes](36%20There%20Are%20No%20Get%20Rich%20Quick%20Schemes%20da1af8d053d1474a8d666dd71c6e411c.md)
 
-[**35. A Calm Mind, a Fit Body, a House Full of Love**](35%20A%20Calm%20Mind,%20a%20Fit%20Body,%20a%20House%20Full%20of%20Love%20063e9123929945878a88af7d55bf2dd5.md)
+[35. A Calm Mind, a Fit Body, a House Full of Love](35%20A%20Calm%20Mind,%20a%20Fit%20Body,%20a%20House%20Full%20of%20Love%20063e9123929945878a88af7d55bf2dd5.md)
