@@ -1,8 +1,10 @@
 # 02.Make Abundance for the World
 
 Created time: Aug 30, 2019 10:53 AM
+
 Number: 2
-Tags: Creation, Ethical, Wealth
+
+
 Telegra.ph URL: https://telegra.ph/02Make-Abundance-for-the-World-05-03
 Translation Process: Done
 URL: https://nav.al/ethical-wealth
