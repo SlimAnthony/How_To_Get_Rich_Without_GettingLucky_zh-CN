@@ -169,13 +169,13 @@ The default branch is `master`.
 | 39 | We Should All Be Working for Ourselves | Done |
 | 40 | Being Ethical Is Long-Term Greedy | Done |
 | 41 | Envy Can Be Useful, or It Can Eat You Alive | Done |
-| 42 | Principal-Agent Problem: Act Like an Owner | Done |
-| 43 | Kelly Criterion: Avoid Ruin | Done |
-| 44 | Schelling Point: Cooperating Without Communicating | Done |
-| 45 | Turn Short-Term Games Into Long-Term Games | Done |
-| 46 | Compounding Relationships Make Life Easier | Done |
-| 47 | Price Discrimination: Charge Some People More | Done |
-| 48 | Consumer Surplus: Getting More Than You Paid For | Done |
-| 49 | Net Present Value: What Future Income Is Worth Today | Done |
-| 50 | Externalities: Calculating the Hidden Costs of Products | Done |
+| 42 | Principal-Agent Problem: Act Like an Owner | To Do |
+| 43 | Kelly Criterion: Avoid Ruin | To Do |
+| 44 | Schelling Point: Cooperating Without Communicating | To Do |
+| 45 | Turn Short-Term Games Into Long-Term Games | To Do |
+| 46 | Compounding Relationships Make Life Easier | To Do |
+| 47 | Price Discrimination: Charge Some People More | To Do |
+| 48 | Consumer Surplus: Getting More Than You Paid For | To Do |
+| 49 | Net Present Value: What Future Income Is Worth Today | To Do |
+| 50 | Externalities: Calculating the Hidden Costs of Products | To Do |
 | 51 | Bonus: Finding Time to Invest in Yourself | To Do |
