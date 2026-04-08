@@ -169,7 +169,7 @@ The default branch is `master`.
 | 39 | We Should All Be Working for Ourselves | Done |
 | 40 | Being Ethical Is Long-Term Greedy | Done |
 | 41 | Envy Can Be Useful, or It Can Eat You Alive | Done |
-| 42 | Principal-Agent Problem: Act Like an Owner | To Do |
+| 42 | Principal-Agent Problem: Act Like an Owner | Done |
 | 43 | Kelly Criterion: Avoid Ruin | To Do |
 | 44 | Schelling Point: Cooperating Without Communicating | To Do |
 | 45 | Turn Short-Term Games Into Long-Term Games | To Do |
