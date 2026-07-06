@@ -172,7 +172,7 @@ The default branch is `master`.
 | 42 | Principal-Agent Problem: Act Like an Owner | Done |
 | 43 | Kelly Criterion: Avoid Ruin | Done |
 | 44 | Schelling Point: Cooperating Without Communicating | Done |
-| 45 | Turn Short-Term Games Into Long-Term Games | To Do |
+| 45 | Turn Short-Term Games Into Long-Term Games | Done |
 | 46 | Compounding Relationships Make Life Easier | To Do |
 | 47 | Price Discrimination: Charge Some People More | To Do |
 | 48 | Consumer Surplus: Getting More Than You Paid For | To Do |
