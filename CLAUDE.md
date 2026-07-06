@@ -176,6 +176,6 @@ The default branch is `master`.
 | 46 | Compounding Relationships Make Life Easier | Done |
 | 47 | Price Discrimination: Charge Some People More | Done |
 | 48 | Consumer Surplus: Getting More Than You Paid For | Done |
-| 49 | Net Present Value: What Future Income Is Worth Today | To Do |
+| 49 | Net Present Value: What Future Income Is Worth Today | Done |
 | 50 | Externalities: Calculating the Hidden Costs of Products | To Do |
 | 51 | Bonus: Finding Time to Invest in Yourself | To Do |
