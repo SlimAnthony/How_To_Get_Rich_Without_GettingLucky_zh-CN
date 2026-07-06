@@ -98,4 +98,4 @@ August 23, 2019
 
 [02.Make Abundance for the World](02%20Make%20Abundance%20for%20the%20World%20a539f3d6d4ce40ccb183bdb24d3f73f8.md) 
 
-[29. Be Too Busy to ‘Do Coffee’](04%20Making%20Money%20Isn%E2%80%99t%20About%20Luck%201318be45851149cabd0ed391a939d7d9/29%20Be%20Too%20Busy%20to%20%E2%80%98Do%20Coffee%E2%80%99%208d6cd3d6ff0342b89c8b55662c7ee4e9.md)
+[29. Be Too Busy to ‘Do Coffee’](29%20Be%20Too%20Busy%20to%20%E2%80%98Do%20Coffee%E2%80%99%204f23cf386677439a90258fb77d394574.md)
