@@ -171,7 +171,7 @@ The default branch is `master`.
 | 41 | Envy Can Be Useful, or It Can Eat You Alive | Done |
 | 42 | Principal-Agent Problem: Act Like an Owner | Done |
 | 43 | Kelly Criterion: Avoid Ruin | Done |
-| 44 | Schelling Point: Cooperating Without Communicating | To Do |
+| 44 | Schelling Point: Cooperating Without Communicating | Done |
 | 45 | Turn Short-Term Games Into Long-Term Games | To Do |
 | 46 | Compounding Relationships Make Life Easier | To Do |
 | 47 | Price Discrimination: Charge Some People More | To Do |
