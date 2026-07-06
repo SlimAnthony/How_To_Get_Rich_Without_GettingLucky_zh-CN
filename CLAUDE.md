@@ -63,7 +63,7 @@ URL: <nav.al canonical URL>
 ```
 
 Key fields:
-- **Translation Process**: Tracks status — `Done`, `In Progress`, or `To Do`. Chapter 51 is marked `To Do`.
+- **Translation Process**: Tracks status — `Done`, `In Progress`, or `To Do`. All 51 chapters are marked `Done`.
 - **音频文件** (audio file): Link to the Libsyn CDN MP3 for that episode.
 - **相关/See Also**: Internal cross-references using relative Markdown links to sibling `.md` files.
 
@@ -120,7 +120,7 @@ The default branch is `master`.
 4. **Respect internal links** — if a file is renamed, update all `相关/See Also` cross-references in other files.
 5. **Translation fidelity over fluency** — the project prioritizes accurate representation of Naval's ideas; do not paraphrase or editorialize.
 6. **License compliance** — this is CC BY-NC 4.0; do not add commercial content or remove attribution.
-7. **Chapter 51 is incomplete** (`Translation Process: To Do`) — treat it as a stub.
+7. **All chapters are translated** (`Translation Process: Done`) — keep the status field and CLAUDE.md's index table in sync when editing.
 
 ---
 
@@ -173,9 +173,9 @@ The default branch is `master`.
 | 43 | Kelly Criterion: Avoid Ruin | Done |
 | 44 | Schelling Point: Cooperating Without Communicating | Done |
 | 45 | Turn Short-Term Games Into Long-Term Games | Done |
-| 46 | Compounding Relationships Make Life Easier | To Do |
-| 47 | Price Discrimination: Charge Some People More | To Do |
-| 48 | Consumer Surplus: Getting More Than You Paid For | To Do |
-| 49 | Net Present Value: What Future Income Is Worth Today | To Do |
-| 50 | Externalities: Calculating the Hidden Costs of Products | To Do |
-| 51 | Bonus: Finding Time to Invest in Yourself | To Do |
+| 46 | Compounding Relationships Make Life Easier | Done |
+| 47 | Price Discrimination: Charge Some People More | Done |
+| 48 | Consumer Surplus: Getting More Than You Paid For | Done |
+| 49 | Net Present Value: What Future Income Is Worth Today | Done |
+| 50 | Externalities: Calculating the Hidden Costs of Products | Done |
+| 51 | Bonus: Finding Time to Invest in Yourself | Done |
