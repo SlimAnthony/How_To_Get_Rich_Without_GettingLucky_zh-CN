@@ -174,7 +174,7 @@ The default branch is `master`.
 | 44 | Schelling Point: Cooperating Without Communicating | Done |
 | 45 | Turn Short-Term Games Into Long-Term Games | Done |
 | 46 | Compounding Relationships Make Life Easier | Done |
-| 47 | Price Discrimination: Charge Some People More | To Do |
+| 47 | Price Discrimination: Charge Some People More | Done |
 | 48 | Consumer Surplus: Getting More Than You Paid For | To Do |
 | 49 | Net Present Value: What Future Income Is Worth Today | To Do |
 | 50 | Externalities: Calculating the Hidden Costs of Products | To Do |
